@@ -1,0 +1,92 @@
+[
+ {
+  "id": "r01",
+  "paper_id": "2004.12832",
+  "question": "At a depth of ten results, roughly how many times more arithmetic does a cross-encoding BERT ranker need than the late-interaction model?",
+  "evidence": "BERT requires nearly 180"
+ },
+ {
+  "id": "r02",
+  "paper_id": "2104.08663",
+  "question": "How much of each document do the evaluated neural retrievers actually read in the zero-shot benchmark?",
+  "evidence": "we use only the first 512 word pieces within all documents"
+ },
+ {
+  "id": "r03",
+  "paper_id": "2212.10496",
+  "question": "How is the expected vector computed when several fake answers are drawn for one query?",
+  "evidence": "We estimate Equation 5 by sampling N documents from g"
+ },
+ {
+  "id": "r04",
+  "paper_id": "2301.12652",
+  "question": "After fetching a handful of passages, how does this plug-in method combine them with the input and merge predictions?",
+  "evidence": "ensembles output probabilities from different passes"
+ },
+ {
+  "id": "r05",
+  "paper_id": "2307.03172",
+  "question": "What kind of identifiers fill the keys and values in the artificial lookup test used to isolate pure retrieval from language understanding?",
+  "evidence": "each of the keys and values are unique, randomly-generated UUIDs"
+ },
+ {
+  "id": "r06",
+  "paper_id": "2309.15217",
+  "question": "Which two popular application frameworks does the evaluation toolkit plug into?",
+  "evidence": "The Ragas framework provides an integration with both llama-index and Langchain"
+ },
+ {
+  "id": "r07",
+  "paper_id": "2310.11511",
+  "question": "During generator training, which portion of the input is excluded from the loss?",
+  "evidence": "we mask out the retrieved text chunks"
+ },
+ {
+  "id": "r08",
+  "paper_id": "2312.06648",
+  "question": "Which reader model and size extracts answers from retrieved units in the granularity study?",
+  "evidence": "We use a T5-large sized FiD model trained on NQ dataset in our experiments."
+ },
+ {
+  "id": "r09",
+  "paper_id": "2312.10997",
+  "question": "Which ranking-based measures are typically used to judge the search component of a RAG system?",
+  "evidence": "Metrics such as Hit Rate, MRR, and NDCG are commonly utilized for this purpose"
+ },
+ {
+  "id": "r10",
+  "paper_id": "2401.15884",
+  "question": "On the popular-entity question benchmark, by what margin did the corrective method beat standard RAG with the Self-RAG LLaMA2 7B base?",
+  "evidence": "CRAG outperformed RAG by margins of 7.0% accuracy on PopQA"
+ },
+ {
+  "id": "r11",
+  "paper_id": "2401.15884",
+  "question": "What two-phase procedure is used to keep only the key sentences of a retrieved document?",
+  "evidence": "recompose knowledge refinement method is designed"
+ },
+ {
+  "id": "r12",
+  "paper_id": "2401.18059",
+  "question": "In the comparison against a balanced tree, how many neighbouring nodes were grouped per window?",
+  "evidence": "we chose a window size of 7 nodes"
+ },
+ {
+  "id": "r13",
+  "paper_id": "2402.03216",
+  "question": "By what factor can batch size grow for very long inputs thanks to chunked encoding with gradient checkpointing?",
+  "evidence": "the batch size can be increased by more than 20 times"
+ },
+ {
+  "id": "r14",
+  "paper_id": "2404.16130",
+  "question": "Which context size surprisingly gave the best comprehensiveness for the baseline in the appendix study?",
+  "evidence": "the smallest context window size tested (8k) was universally better for all comparisons on comprehensiveness"
+ },
+ {
+  "id": "r15",
+  "paper_id": "2506.05176",
+  "question": "How much better is the biggest Qwen3 reranker than the smallest across tasks?",
+  "evidence": "improving ranking results by 3.0 points over the 0.6B model"
+ }
+]

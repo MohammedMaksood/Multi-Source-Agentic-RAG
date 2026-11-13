@@ -1,0 +1,701 @@
+{"id": "h01", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h01", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h01", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h02", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h02", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h02", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h03", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h03", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h03", "mode": "hybrid_rerank", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h04", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h04", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h04", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h05", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h05", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h05", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h06", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h06", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h06", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h07", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h07", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h07", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h08", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h08", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h08", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h09", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h09", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h09", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h10", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h10", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h10", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h11", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h11", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h11", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h12", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h12", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h12", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h13", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h13", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h13", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h14", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h14", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h14", "mode": "hybrid_rerank", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "h15", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h15", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h15", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r01", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r01", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r01", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r02", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r02", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r02", "mode": "hybrid_rerank", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r03", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r03", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r03", "mode": "hybrid_rerank", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r04", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r04", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r04", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r05", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r05", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r05", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r06", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r06", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r06", "mode": "hybrid_rerank", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r07", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r07", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r07", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r08", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r08", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r08", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r09", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r09", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r09", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r10", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r10", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r10", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r11", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r11", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "r11", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r12", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r12", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r12", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r13", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r13", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r13", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r14", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r14", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r14", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r15", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r15", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "r15", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p01", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p01", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p01", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p02", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p02", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p02", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p03", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p03", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p03", "mode": "hybrid_rerank", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p04", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p04", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p04", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p05", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p05", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p05", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p06", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p06", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p06", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p07", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p07", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p07", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p08", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p08", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p08", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p09", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p09", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p09", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p10", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p10", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p10", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p11", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p11", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p11", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p12", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p12", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p12", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p13", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p13", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p13", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p14", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p14", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p14", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p15", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p15", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p15", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p16", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p16", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p16", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p17", "mode": "dense", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p17", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p17", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p18", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p18", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p18", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p19", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p19", "mode": "hybrid", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p19", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p20", "mode": "dense", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "p20", "mode": "hybrid", "metric": "context_recall", "value": 0.0, "note": null}
+{"id": "p20", "mode": "hybrid_rerank", "metric": "context_recall", "value": 1.0, "note": null}
+{"id": "h01", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h01", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h01", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h02", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h02", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h02", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h03", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h03", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h03", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h04", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h04", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h04", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h05", "mode": "dense", "metric": "factual_correctness", "value": 0.33, "note": null}
+{"id": "h05", "mode": "hybrid", "metric": "factual_correctness", "value": 0.4, "note": null}
+{"id": "h05", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.57, "note": null}
+{"id": "h06", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h06", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h06", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h07", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h07", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h07", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h08", "mode": "dense", "metric": "factual_correctness", "value": 0.4, "note": null}
+{"id": "h08", "mode": "hybrid", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "h08", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "h09", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h09", "mode": "hybrid", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "h09", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "h10", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h10", "mode": "hybrid", "metric": "factual_correctness", "value": 0.4, "note": null}
+{"id": "h10", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h11", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h11", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "h11", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h12", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h12", "mode": "hybrid", "metric": "factual_correctness", "value": 0.29, "note": null}
+{"id": "h12", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 1.0, "note": null}
+{"id": "h13", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h13", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h13", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h14", "mode": "dense", "metric": "factual_correctness", "value": 0.4, "note": null}
+{"id": "h14", "mode": "hybrid", "metric": "factual_correctness", "value": 0.33, "note": null}
+{"id": "h14", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "h15", "mode": "dense", "metric": "factual_correctness", "value": 0.57, "note": null}
+{"id": "h15", "mode": "hybrid", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "h15", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "r01", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r01", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r01", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r02", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r02", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r02", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r03", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r03", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r03", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r04", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r04", "mode": "hybrid", "metric": "factual_correctness", "value": 0.33, "note": null}
+{"id": "r04", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r05", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r05", "mode": "hybrid", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "r05", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "r06", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r06", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r06", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r07", "mode": "dense", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "r07", "mode": "hybrid", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "r07", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "r08", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r08", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "r08", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "r09", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "r09", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "r09", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "r10", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r10", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r10", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r11", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r11", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "r11", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.75, "note": null}
+{"id": "r12", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "r12", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r12", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "r13", "mode": "dense", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "r13", "mode": "hybrid", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "r13", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "r14", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "r14", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "r14", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "r15", "mode": "dense", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "r15", "mode": "hybrid", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "r15", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "p01", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p01", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p01", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p02", "mode": "dense", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "p02", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p02", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p03", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p03", "mode": "hybrid", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "p03", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p04", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p04", "mode": "hybrid", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "p04", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p05", "mode": "dense", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "p05", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p05", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.4, "note": null}
+{"id": "p06", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p06", "mode": "hybrid", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "p06", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p07", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p07", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p07", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p08", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p08", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p08", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.5, "note": null}
+{"id": "p09", "mode": "dense", "metric": "factual_correctness", "value": 0.57, "note": null}
+{"id": "p09", "mode": "hybrid", "metric": "factual_correctness", "value": 0.8, "note": null}
+{"id": "p09", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.8, "note": null}
+{"id": "p10", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p10", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p10", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p11", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p11", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p11", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.4, "note": null}
+{"id": "p12", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p12", "mode": "hybrid", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please "}
+{"id": "p12", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p13", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p13", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p13", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please "}
+{"id": "p14", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p14", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p14", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please "}
+{"id": "p15", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p15", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p15", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p16", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p16", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p16", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p17", "mode": "dense", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p17", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p17", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p18", "mode": "dense", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p18", "mode": "hybrid", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p18", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p19", "mode": "dense", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p19", "mode": "hybrid", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p19", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p20", "mode": "dense", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p20", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": "fallback answer asserts nothing"}
+{"id": "p20", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h01", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h01", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h01", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h02", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h02", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h02", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h03", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h03", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h03", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h04", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h04", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h04", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h05", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h05", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h05", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h06", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h06", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h06", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h07", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h07", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h07", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h08", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h08", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h08", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h09", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h09", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h09", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h10", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h10", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h10", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h11", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h11", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "h11", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h12", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h12", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h12", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h13", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h13", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h13", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h14", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h14", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h14", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h15", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h15", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "h15", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r01", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r01", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r01", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r02", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r02", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r02", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r03", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r03", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r03", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r04", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r04", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r04", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r05", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r05", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r05", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r06", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r06", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r06", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r07", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r07", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r07", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r08", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r08", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r08", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r09", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r09", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r09", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r10", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r10", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r10", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r11", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r11", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r11", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r12", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r12", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r12", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "r13", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r13", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r13", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r14", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r14", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r14", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r15", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r15", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "r15", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p01", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p01", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p01", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p02", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p02", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p02", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p03", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p03", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p03", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p04", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p04", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p04", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p05", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p05", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p05", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p06", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p06", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p06", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p07", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p07", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p07", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p08", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p08", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p08", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p09", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p09", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p09", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p10", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p10", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p10", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p11", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p11", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p11", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p12", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p12", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p12", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p13", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p13", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p13", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p14", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p14", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p14", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p15", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p15", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p15", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p16", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p16", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p16", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p17", "mode": "dense", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p17", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p17", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p18", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p18", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p18", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p19", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p19", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p19", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p20", "mode": "dense", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p20", "mode": "hybrid", "metric": "faithfulness", "value": null, "note": "fallback answer, not scored"}
+{"id": "p20", "mode": "hybrid_rerank", "metric": "faithfulness", "value": null, "note": "error: InstructorRetryException: reached --max-calls 140"}
+{"id": "p12", "mode": "hybrid", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p13", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p14", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p18", "mode": "dense", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "p18", "mode": "hybrid", "metric": "factual_correctness", "value": 1.0, "note": null}
+{"id": "p18", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.0, "note": null}
+{"id": "p19", "mode": "dense", "metric": "factual_correctness", "value": 1.0, "note": null}
+{"id": "p19", "mode": "hybrid", "metric": "factual_correctness", "value": 1.0, "note": null}
+{"id": "p19", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "p20", "mode": "dense", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "p20", "mode": "hybrid_rerank", "metric": "factual_correctness", "value": 0.67, "note": null}
+{"id": "h01", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h02", "mode": "hybrid", "metric": "faithfulness", "value": 0.0, "note": null}
+{"id": "h02", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.0, "note": null}
+{"id": "h05", "mode": "dense", "metric": "faithfulness", "value": 0.3333333333333333, "note": null}
+{"id": "h05", "mode": "hybrid", "metric": "faithfulness", "value": 0.4, "note": null}
+{"id": "h05", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h06", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.5, "note": null}
+{"id": "h08", "mode": "dense", "metric": "faithfulness", "value": 0.5, "note": null}
+{"id": "h08", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h08", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h09", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h09", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.75, "note": null}
+{"id": "h10", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h10", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.75, "note": null}
+{"id": "h11", "mode": "dense", "metric": "faithfulness", "value": 0.75, "note": null}
+{"id": "h11", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h12", "mode": "dense", "metric": "faithfulness", "value": 0.3333333333333333, "note": null}
+{"id": "h12", "mode": "hybrid", "metric": "faithfulness", "value": 0.8, "note": null}
+{"id": "h12", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h13", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h13", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h13", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.75, "note": null}
+{"id": "h14", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h14", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h14", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h15", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h15", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h15", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r04", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r05", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r05", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r07", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r07", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r07", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r08", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r08", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r09", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r09", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r09", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r11", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r11", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.6666666666666666, "note": null}
+{"id": "r12", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r13", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r13", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r13", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r14", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r14", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r14", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r15", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r15", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "r15", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p01", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.0, "note": null}
+{"id": "p02", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p02", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p02", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p03", "mode": "hybrid", "metric": "faithfulness", "value": 0.3333333333333333, "note": null}
+{"id": "p04", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p05", "mode": "dense", "metric": "faithfulness", "value": 0.75, "note": null}
+{"id": "p05", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.75, "note": null}
+{"id": "p06", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p06", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p06", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p08", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p08", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p08", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p09", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p09", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p09", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.8333333333333334, "note": null}
+{"id": "p10", "mode": "dense", "metric": "faithfulness", "value": 0.5, "note": null}
+{"id": "p10", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p10", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.5, "note": null}
+{"id": "p11", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p11", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p11", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p12", "mode": "hybrid", "metric": "faithfulness", "value": 0.8, "note": null}
+{"id": "p13", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.6, "note": null}
+{"id": "p14", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p14", "mode": "hybrid", "metric": "faithfulness", "value": 0.0, "note": null}
+{"id": "p14", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 0.0, "note": null}
+{"id": "p15", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p16", "mode": "hybrid", "metric": "faithfulness", "value": 0.0, "note": null}
+{"id": "p16", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p18", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p18", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p18", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p19", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p19", "mode": "hybrid", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p19", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p20", "mode": "dense", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "p20", "mode": "hybrid_rerank", "metric": "faithfulness", "value": 1.0, "note": null}
+{"id": "h01", "mode": "dense", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "h01", "mode": "hybrid", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "h01", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "h02", "mode": "dense", "metric": "context_precision", "value": 0.8055555555287036, "note": null}
+{"id": "h02", "mode": "hybrid", "metric": "context_precision", "value": 0.6999999999766667, "note": null}
+{"id": "h02", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.8874999999778125, "note": null}
+{"id": "h03", "mode": "dense", "metric": "context_precision", "value": 0.99999999995, "note": null}
+{"id": "h03", "mode": "hybrid", "metric": "context_precision", "value": 0.499999999975, "note": null}
+{"id": "h03", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h04", "mode": "dense", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "h04", "mode": "hybrid", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "h04", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "h05", "mode": "dense", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "h05", "mode": "hybrid", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "h05", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.8333333332916666, "note": null}
+{"id": "h06", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h06", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h06", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "h07", "mode": "dense", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "h07", "mode": "hybrid", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "h07", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "h08", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h08", "mode": "hybrid", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "h08", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "h09", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h09", "mode": "hybrid", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "h09", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.699999999965, "note": null}
+{"id": "h10", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h10", "mode": "hybrid", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "h10", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "h11", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h11", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h11", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.99999999995, "note": null}
+{"id": "h12", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h12", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h12", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "h13", "mode": "dense", "metric": "context_precision", "value": 0.99999999995, "note": null}
+{"id": "h13", "mode": "hybrid", "metric": "context_precision", "value": 0.19999999998, "note": null}
+{"id": "h13", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.8333333332916666, "note": null}
+{"id": "h14", "mode": "dense", "metric": "context_precision", "value": 0.8333333332916666, "note": null}
+{"id": "h14", "mode": "hybrid", "metric": "context_precision", "value": 0.5833333333041666, "note": null}
+{"id": "h14", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "h15", "mode": "dense", "metric": "context_precision", "value": 0.99999999995, "note": null}
+{"id": "h15", "mode": "hybrid", "metric": "context_precision", "value": 0.99999999995, "note": null}
+{"id": "h15", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.99999999995, "note": null}
+{"id": "r01", "mode": "dense", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r01", "mode": "hybrid", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r01", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.5833333333041666, "note": null}
+{"id": "r02", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r02", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r02", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r03", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r03", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r03", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r04", "mode": "dense", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "r04", "mode": "hybrid", "metric": "context_precision", "value": 0.6791666666496875, "note": null}
+{"id": "r04", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "r05", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r05", "mode": "hybrid", "metric": "context_precision", "value": 0.99999999995, "note": null}
+{"id": "r05", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.8666666666377778, "note": null}
+{"id": "r06", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r06", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r06", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r07", "mode": "dense", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "r07", "mode": "hybrid", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "r07", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r08", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r08", "mode": "hybrid", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "r08", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r09", "mode": "dense", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r09", "mode": "hybrid", "metric": "context_precision", "value": 0.99999999995, "note": null}
+{"id": "r09", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.7499999999625, "note": null}
+{"id": "r10", "mode": "dense", "metric": "context_precision", "value": 0.99999999995, "note": null}
+{"id": "r10", "mode": "hybrid", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "r10", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.6388888888675925, "note": null}
+{"id": "r11", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r11", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "r11", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.699999999965, "note": null}
+{"id": "r12", "mode": "dense", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "r12", "mode": "hybrid", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r12", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r13", "mode": "dense", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r13", "mode": "hybrid", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r13", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r14", "mode": "dense", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r14", "mode": "hybrid", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r14", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "r15", "mode": "dense", "metric": "context_precision", "value": 0.5833333333041666, "note": null}
+{"id": "r15", "mode": "hybrid", "metric": "context_precision", "value": 0.99999999995, "note": null}
+{"id": "r15", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.8666666666377778, "note": null}
+{"id": "p01", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p01", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p01", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "p02", "mode": "dense", "metric": "context_precision", "value": 0.5333333333155555, "note": null}
+{"id": "p02", "mode": "hybrid", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "p02", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.47777777776185176, "note": null}
+{"id": "p03", "mode": "dense", "metric": "context_precision", "value": 0.19999999998, "note": null}
+{"id": "p03", "mode": "hybrid", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "p03", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p04", "mode": "dense", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "p04", "mode": "hybrid", "metric": "context_precision", "value": 0.5833333333041666, "note": null}
+{"id": "p04", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "p05", "mode": "dense", "metric": "context_precision", "value": 0.8333333332916666, "note": null}
+{"id": "p05", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p05", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.8055555555287036, "note": null}
+{"id": "p06", "mode": "dense", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "p06", "mode": "hybrid", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "p06", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.19999999998, "note": null}
+{"id": "p07", "mode": "dense", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "p07", "mode": "hybrid", "metric": "context_precision", "value": 0.19999999998, "note": null}
+{"id": "p07", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "p08", "mode": "dense", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "p08", "mode": "hybrid", "metric": "context_precision", "value": 0.5833333333041666, "note": null}
+{"id": "p08", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.36666666664833336, "note": null}
+{"id": "p09", "mode": "dense", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "p09", "mode": "hybrid", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "p09", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.7499999999625, "note": null}
+{"id": "p10", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p10", "mode": "hybrid", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "p10", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "p11", "mode": "dense", "metric": "context_precision", "value": 0.6388888888675925, "note": null}
+{"id": "p11", "mode": "hybrid", "metric": "context_precision", "value": 0.19999999998, "note": null}
+{"id": "p11", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.499999999975, "note": null}
+{"id": "p12", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p12", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p12", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "p13", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p13", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p13", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.3333333333, "note": null}
+{"id": "p14", "mode": "dense", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "p14", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p14", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "p15", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p15", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p15", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "p16", "mode": "dense", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "p16", "mode": "hybrid", "metric": "context_precision", "value": 0.19999999998, "note": null}
+{"id": "p16", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.8333333332916666, "note": null}
+{"id": "p17", "mode": "dense", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p17", "mode": "hybrid", "metric": "context_precision", "value": 0.249999999975, "note": null}
+{"id": "p17", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.5888888888692593, "note": null}
+{"id": "p18", "mode": "dense", "metric": "context_precision", "value": 0.36666666664833336, "note": null}
+{"id": "p18", "mode": "hybrid", "metric": "context_precision", "value": 0.32499999998375, "note": null}
+{"id": "p18", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9166666666361111, "note": null}
+{"id": "p19", "mode": "dense", "metric": "context_precision", "value": 0.49999999995, "note": null}
+{"id": "p19", "mode": "hybrid", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "p19", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.9999999999, "note": null}
+{"id": "p20", "mode": "dense", "metric": "context_precision", "value": 0.19999999998, "note": null}
+{"id": "p20", "mode": "hybrid", "metric": "context_precision", "value": 0.0, "note": null}
+{"id": "p20", "mode": "hybrid_rerank", "metric": "context_precision", "value": 0.19999999998, "note": null}

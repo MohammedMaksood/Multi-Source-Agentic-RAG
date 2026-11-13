@@ -1,0 +1,92 @@
+[
+ {
+  "id": "m01",
+  "paper_id": "2004.04906",
+  "question": "How many questions per second can DPR process with a FAISS index when returning the top 100 passages, compared with BM25/Lucene?",
+  "evidence": "processing 995.0 questions per second, returning top 100 passages per question"
+ },
+ {
+  "id": "m02",
+  "paper_id": "2004.04906",
+  "question": "How long does it take to compute dense embeddings for 21 million passages in the DPR experiments?",
+  "evidence": "taking roughly 8.8 hours on 8 GPUs"
+ },
+ {
+  "id": "m03",
+  "paper_id": "2004.12832",
+  "question": "Which collection does ColBERT use for MS MARCO and how many passages does it contain?",
+  "evidence": "a collection of 8.8M passages from Web pages"
+ },
+ {
+  "id": "m04",
+  "paper_id": "2005.11401",
+  "question": "How often can RAG answer correctly on Natural Questions even when no retrieved document contains the answer?",
+  "evidence": "achieving 11.8% accuracy in such cases for NQ"
+ },
+ {
+  "id": "m05",
+  "paper_id": "2005.11401",
+  "question": "What fraction of the time is the top article retrieved by RAG a gold FEVER article?",
+  "evidence": "the top retrieved document is from a gold article in 71% of cases"
+ },
+ {
+  "id": "m06",
+  "paper_id": "2104.08663",
+  "question": "Which single evaluation metric does BEIR adopt across all tasks, and why?",
+  "evidence": "Normalised Cumulative Discount Gain (nDCG@k) provides a good balance"
+ },
+ {
+  "id": "m07",
+  "paper_id": "2208.03299",
+  "question": "How many passages does the Atlas Wikipedia index contain and what is their average length?",
+  "evidence": "This leads to a total of 37M passages, containing 78 words in average."
+ },
+ {
+  "id": "m08",
+  "paper_id": "2212.10496",
+  "question": "What instruction does HyDE give the language model to produce its hypothetical document?",
+  "evidence": "write a document that answers the question"
+ },
+ {
+  "id": "m09",
+  "paper_id": "2301.12652",
+  "question": "By how much do REPLUG and REPLUG LSR improve Codex on MMLU?",
+  "evidence": "both the REPLUG and REPLUG LSR improve the original Codex model by 4.5% and 5.1%, respectively"
+ },
+ {
+  "id": "m10",
+  "paper_id": "2305.06983",
+  "question": "Which base language model does FLARE use in its experiments?",
+  "evidence": "We validate our method on one of the most advanced GPT-3.5 LMs text-davinci-003"
+ },
+ {
+  "id": "m11",
+  "paper_id": "2307.03172",
+  "question": "How much does using 50 retrieved documents instead of 20 help in the open-domain QA experiments?",
+  "evidence": "using 50 documents instead of 20 retrieved documents only marginally improves performance"
+ },
+ {
+  "id": "m12",
+  "paper_id": "2309.15217",
+  "question": "How often did the two annotators agree on faithfulness and context relevance in the Ragas study?",
+  "evidence": "the two annotators agreed in around 95% of cases"
+ },
+ {
+  "id": "m13",
+  "paper_id": "2310.11511",
+  "question": "How does Self-RAG compute critique compared with PPO-based RLHF?",
+  "evidence": "we compute critique offline and directly insert them into the training corpus"
+ },
+ {
+  "id": "m14",
+  "paper_id": "2401.18059",
+  "question": "What share of RAPTOR's summaries contained minor hallucinations in the annotation study?",
+  "evidence": "about 4% of the summaries contained minor hallucinations"
+ },
+ {
+  "id": "m15",
+  "paper_id": "2506.05176",
+  "question": "What MTEB Multilingual score does the flagship Qwen3 embedding model reach?",
+  "evidence": "70.58 on the MTEB Multilingual benchmark"
+ }
+]

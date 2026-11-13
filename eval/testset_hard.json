@@ -1,0 +1,92 @@
+[
+ {
+  "id": "h01",
+  "paper_id": "2004.04906",
+  "question": "Why did the authors of the dense passage retriever paper split documents into equal-size pieces instead of using natural paragraphs?",
+  "evidence": "using fixed-length passages performs better in both retrieval and final QA accuracy"
+ },
+ {
+  "id": "h02",
+  "paper_id": "2004.04906",
+  "question": "On the Google-sourced question dataset, how large is the top-20 accuracy gap between the learned dense retriever and the classic lexical baseline?",
+  "evidence": "78.4% vs. 59.1% for top-20 accuracy on Natural Questions"
+ },
+ {
+  "id": "h03",
+  "paper_id": "2004.12832",
+  "question": "Why does the late-interaction model's FLOP advantage make it feasible to run without a GPU?",
+  "evidence": "it practical to run ColBERT entirely on the CPU"
+ },
+ {
+  "id": "h04",
+  "paper_id": "2005.11401",
+  "question": "By how many points does the sequence-level retrieval-augmented model beat BART on the open Microsoft passage-ranking generation benchmark?",
+  "evidence": "RAG-Sequence outperforms BART on Open MS-MARCO NLG by 2.6 Bleu points and 2.6 Rouge-L points"
+ },
+ {
+  "id": "h05",
+  "paper_id": "2104.08663",
+  "question": "What language are all the datasets in the zero-shot retrieval benchmark, and why is that listed as a limitation?",
+  "evidence": "all datasets covered in the BEIR benchmark are currently English"
+ },
+ {
+  "id": "h06",
+  "paper_id": "2208.03299",
+  "question": "Which training objective for the retriever measures how much the reader gets worse when one top retrieved passage is dropped?",
+  "evidence": "we propose an objective based on how much worse the prediction of the language model gets, when removing one of the top-k retrieved documents"
+ },
+ {
+  "id": "h07",
+  "paper_id": "2212.10496",
+  "question": "Against which classic approach did the hypothetical-document method lose on a single low-resource dataset, and by how much?",
+  "evidence": "HyDE is only outperformed by BM25 on one dataset, TREC-Covid but with a tiny 0.2 margin"
+ },
+ {
+  "id": "h08",
+  "paper_id": "2301.12652",
+  "question": "How frequently are the corpus vectors recomputed while adapting the retriever?",
+  "evidence": "re-compute the document embeddings every 3k steps"
+ },
+ {
+  "id": "h09",
+  "paper_id": "2305.06983",
+  "question": "How does the active-retrieval method turn uncertain spans into search queries without hand-written examples?",
+  "evidence": "For each extracted span z, we prompt gpt-3.5-turbo to generate a question"
+ },
+ {
+  "id": "h10",
+  "paper_id": "2307.03172",
+  "question": "What happens to accuracy when long inputs are given the question both before and after the data, in the synthetic lookup task with 300 pairs?",
+  "evidence": "achieves perfect performance when evaluated with 300 key-value pairs"
+ },
+ {
+  "id": "h11",
+  "paper_id": "2309.15217",
+  "question": "What is the first step used to measure whether an answer is supported by its sources?",
+  "evidence": "we first use an LLM to extract a set of statements"
+ },
+ {
+  "id": "h12",
+  "paper_id": "2312.06648",
+  "question": "How does the proposition-granularity study define passage recall?",
+  "evidence": "the percentage of questions for which the correct answer is found within the top-k retrieved passages"
+ },
+ {
+  "id": "h13",
+  "paper_id": "2312.10997",
+  "question": "For answers without gold labels, what qualities do surveys of RAG assessment consider?",
+  "evidence": "the evaluation encompasses the faithfulness, relevance, and non-harmfulness of the generated answers"
+ },
+ {
+  "id": "h14",
+  "paper_id": "2401.15884",
+  "question": "Why did the authors add a third, uncertain outcome beyond correct and incorrect?",
+  "evidence": "The design of the Ambiguous action significantly helps to mitigate the dependence on the accuracy of the retrieval evaluator"
+ },
+ {
+  "id": "h15",
+  "paper_id": "2404.16130",
+  "question": "Which algorithm partitions the entity graph into communities, and in what manner is it applied?",
+  "evidence": "we use Leiden community detection (Traag et al., 2019) in a hierarchical manner"
+ }
+]

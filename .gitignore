@@ -1,0 +1,33 @@
+# Secrets, never commit
+.env
+.env.*
+!.env.example
+*.key
+service-account*.json
+credentials*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Local data, indexes and logs
+data/
+chroma_db/
+*.db
+logs/
+*.log
+.langgraph_api/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Personal notes, not for the public repo
+PROJECT_NOTES.docx
+PROJECT_NOTES.pdf
