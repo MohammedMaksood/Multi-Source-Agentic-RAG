@@ -1,6 +1,6 @@
 # Multi-Source Agentic RAG
 
-An agentic RAG system built with LangGraph. An LLM agent rewrites the user's question, retrieves passages, grades whether they are good enough, retries with a new query when they are not, and only then writes a cited answer. Dense vectors and paper chunks are stored in local Weaviate; BM25, RRF, and cross-encoder reranking provide hybrid retrieval. The project compares retrieval strategies and measures them with RAGAS. Every run can be traced in LangSmith, and conversations persist in SQLite.
+An agentic RAG system built with LangGraph. An LLM agent rewrites the user's question, retrieves passages, grades whether they are good enough, retries with a new query when they are not, and only then writes a cited answer. Dense vectors and paper chunks are stored in Weaviate (local Docker by default, with optional Weaviate Cloud); BM25, RRF, and cross-encoder reranking provide hybrid retrieval. The project compares retrieval strategies and measures them with RAGAS. Every run can be traced in LangSmith, and conversations persist in SQLite.
 
 **Status:** Phase 1 (documents only) is built and its evaluation gate is met. All 150 context-precision scores are complete (see Results). Phases 2 and 3 are planned, not built.
 
@@ -35,7 +35,7 @@ A question costs 2 LLM calls at minimum and 7 at most. Every call is logged with
 | Role | Model | Why |
 |---|---|---|
 | Embedder | `BAAI/bge-m3` (revision `5617a9f`) | Best of four in the bake-off below |
-| Vector database | Weaviate `1.40.4` (local Docker) | Persists chunk text, metadata, and BGE-M3 vectors |
+| Vector database | Weaviate (local Docker or Weaviate Cloud) | Persists chunk text, metadata, and BGE-M3 vectors |
 | Reranker | `BAAI/bge-reranker-v2-m3` (revision `953dc6f`) | Best of three in the bake-off below |
 | Local LLM | `qwen3:4b-instruct-2507-q4_K_M` (Ollama) | Fits a 6 GB GPU beside the retrieval models |
 | API LLM and RAGAS judge | `gemini-3.5-flash-lite` | Stable, free tier available |
@@ -132,7 +132,7 @@ Python 3.11, an NVIDIA GPU with about 6 GB of VRAM, and [Ollama](https://ollama.
 python3.11 -m venv ~/.venvs/msa && source ~/.venvs/msa/bin/activate
 pip install -r requirements.txt
 cp .env.example .env                                   # then fill in your keys
-docker compose up -d                                   # local Weaviate on 127.0.0.1:8080
+docker compose up -d                                   # local Weaviate on 127.0.0.1:8080 (skip when using Cloud)
 python scripts/download_corpus.py                      # 19 arXiv papers into data/papers/
 ollama pull qwen3:4b-instruct-2507-q4_K_M
 python -m scripts.index_weaviate                      # index chunks without calling an LLM
@@ -146,7 +146,9 @@ python -m eval.run_ragas --max-calls 250 --rpm 10      # RAGAS judging, resumabl
 python -m eval.summarize                               # prints the tables above
 ```
 
-On first retrieval, the agent creates a corpus-versioned Weaviate collection and indexes the paper chunks using the existing BGE-M3 embeddings. Later runs reuse that persistent collection. Stop Weaviate with `docker compose down`; the named `weaviate_data` volume keeps the indexed data. The local API is bound to this machine only. To view data, connect a Weaviate browser console to the local instance; Weaviate's hosted Explorer is limited to Cloud collections.
+By default, the app connects to local Weaviate using `WEAVIATE_HOST`, `WEAVIATE_HTTP_PORT`, and `WEAVIATE_GRPC_PORT`. To use Weaviate Cloud instead, set `WEAVIATE_URL` to your cluster's REST endpoint and `WEAVIATE_API_KEY` in your local `.env`; when both are set, the cloud connection takes precedence and Docker is not required. Keep the API key private. Cloud usage may incur charges, and indexing uploads your paper chunks and vectors to that cluster.
+
+On first use with a database, the agent creates a corpus-versioned Weaviate collection and indexes the paper chunks using the existing BGE-M3 embeddings. Later runs reuse that collection. Local data persists in the named `weaviate_data` Docker volume. To view local data, connect a Weaviate browser console to the local instance; Weaviate's hosted Explorer is limited to Cloud collections.
 
 On WSL, keep the virtual environment on the Linux filesystem, not under `/mnt/c`. Importing PyTorch from a Windows-mounted drive took 88 seconds here, against 12 seconds on the Linux disk.
 

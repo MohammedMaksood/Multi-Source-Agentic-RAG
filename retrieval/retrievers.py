@@ -1,4 +1,4 @@
-"""Dense, BM25, hybrid (RRF) and hybrid + rerank retrieval over local Weaviate."""
+"""Dense, BM25, hybrid (RRF) and reranked retrieval over Weaviate."""
 import hashlib
 import os
 import re
@@ -9,10 +9,14 @@ import numpy as np
 import torch
 from rank_bm25 import BM25Okapi
 from sentence_transformers import CrossEncoder, SentenceTransformer
+from dotenv import load_dotenv
 
 from retrieval.chunking import Chunk, load_chunks
 
-INDEX_DIR = Path(__file__).resolve().parent.parent / "data" / "index"
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+load_dotenv(PROJECT_ROOT / ".env")
+
+INDEX_DIR = PROJECT_ROOT / "data" / "index"
 EMBEDDER = ("BAAI/bge-m3", "5617a9f61b028005a4858fdac845db406aefb181")
 RERANKER = ("BAAI/bge-reranker-v2-m3", "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e")
 CANDIDATES = 30
@@ -49,20 +53,38 @@ class Retriever:
         try:
             import weaviate
             from weaviate.classes.config import Configure, DataType, Property
+            from weaviate.classes.init import Auth
         except ImportError as exc:
             raise RuntimeError(
                 "Weaviate support is not installed. Run `python -m pip install -r requirements.txt`."
             ) from exc
 
+        cloud_url = os.getenv("WEAVIATE_URL", "").strip()
+        cloud_api_key = os.getenv("WEAVIATE_API_KEY", "").strip()
         host = os.getenv("WEAVIATE_HOST", "127.0.0.1")
         http_port = int(os.getenv("WEAVIATE_HTTP_PORT", "8080"))
         grpc_port = int(os.getenv("WEAVIATE_GRPC_PORT", "50051"))
+
+        if cloud_api_key and not cloud_url:
+            raise RuntimeError("WEAVIATE_API_KEY is set but WEAVIATE_URL is empty. Set both for Weaviate Cloud.")
+        if cloud_url and not cloud_api_key:
+            raise RuntimeError("WEAVIATE_URL is set but WEAVIATE_API_KEY is empty. Set both for Weaviate Cloud.")
+
         try:
-            self.client = weaviate.connect_to_local(host=host, port=http_port, grpc_port=grpc_port)
+            if cloud_url:
+                self.client = weaviate.connect_to_weaviate_cloud(
+                    cluster_url=cloud_url,
+                    auth_credentials=Auth.api_key(cloud_api_key),
+                )
+                self.database_location = f"Weaviate Cloud ({cloud_url})"
+            else:
+                self.client = weaviate.connect_to_local(host=host, port=http_port, grpc_port=grpc_port)
+                self.database_location = f"local Weaviate at {host}:{http_port}"
         except Exception as exc:
+            target = f"Weaviate Cloud at {cloud_url}" if cloud_url else f"local Weaviate at {host}:{http_port}"
+            start_hint = "Check the cluster URL and API key in .env." if cloud_url else "Start it with `docker compose up -d`."
             raise RuntimeError(
-                f"Could not connect to local Weaviate at {host}:{http_port}. "
-                "Start it with `docker compose up -d` and try again. "
+                f"Could not connect to {target}. {start_hint} "
                 f"Details: {exc}"
             ) from exc
 
